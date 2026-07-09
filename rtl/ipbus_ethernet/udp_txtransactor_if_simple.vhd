@@ -28,7 +28,7 @@
 -- Even simpler, but now multi-buffer RAM!
 --
 -- Dave Sankey, September 2012
-
+-- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

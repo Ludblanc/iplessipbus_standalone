@@ -27,7 +27,7 @@
 -- Signals crossing clock domain...
 --
 -- Dave Sankey, January 2013
-
+-- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

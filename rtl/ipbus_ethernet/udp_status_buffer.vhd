@@ -27,7 +27,7 @@
 -- Accumulates status info and passes dollops to udp_build_status
 --
 -- Dave Sankey, Jan 2013
-
+-- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

@@ -32,7 +32,7 @@
 --
 -- You must edit this file to set the IP and MAC addresses
 --
-
+-- Ludovic Blanc 2026
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;

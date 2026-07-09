@@ -27,7 +27,7 @@
 -- Parses up to first 74 bytes of incoming ethernet packet for supported protocols
 --
 -- Dave Sankey, June 2012, March 2013, Feb 2021
-
+-- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 

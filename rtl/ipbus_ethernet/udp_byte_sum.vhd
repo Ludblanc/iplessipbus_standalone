@@ -28,7 +28,7 @@
 -- For 2's compliment first byte is the high byte
 --
 -- Dave Sankey, June 2012
-
+-- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

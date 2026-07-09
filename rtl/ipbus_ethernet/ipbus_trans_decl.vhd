@@ -30,7 +30,7 @@
 -- the memory buffers which hold input and output packets
 --
 -- Dave Newbold, September 2012
-
+-- Ludovic Blanc 2026
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;

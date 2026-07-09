@@ -29,7 +29,7 @@
 -- This module knows nothing about the ipbus transaction protocol
 --
 -- Dave Newbold, October 2012
-
+-- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

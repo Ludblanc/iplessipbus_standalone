@@ -22,7 +22,7 @@
 --       https://ipbus.web.cern.ch/ipbus
 --
 ---------------------------------------------------------------------------------
-
+-- Ludovic Blanc 2026
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;

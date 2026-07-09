@@ -30,7 +30,7 @@
 -- with INTERNAL_ONLY = '1' only from rxram (for interFPGA FIFO)
 --
 -- Dave Sankey, July 2012, March 2015
-
+-- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

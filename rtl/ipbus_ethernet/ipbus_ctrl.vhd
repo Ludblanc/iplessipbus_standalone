@@ -32,7 +32,7 @@
 -- to the ipbus.
 
 -- Dave Newbold, Sep 2012
-
+-- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 use work.ipbus.all;

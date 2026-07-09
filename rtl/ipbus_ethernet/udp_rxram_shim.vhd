@@ -25,7 +25,7 @@
 
 
 --  Dave Sankey May 2013
-
+-- Ludovic Blanc 2026
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

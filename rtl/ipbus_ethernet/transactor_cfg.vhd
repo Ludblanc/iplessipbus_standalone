@@ -29,7 +29,7 @@
 -- Typically used to allow ucontroller to set the mac / ip address
 --
 -- Dave Newbold, January 2012
- 
+ -- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

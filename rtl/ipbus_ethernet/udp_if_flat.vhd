@@ -28,7 +28,7 @@
 -- VHDL Entity ipbus_v2_lib.UDP_if.symbol and
 -- VHDL Entity ipbus_v2_lib.rxblock.symbol
 --  Dave Sankey Sep 2012
-
+-- Ludovic Blanc 2026
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 USE ieee.numeric_std.all;

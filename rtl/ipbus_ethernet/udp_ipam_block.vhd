@@ -29,7 +29,7 @@
 --
 -- Dave Sankey, June 2013
 -- Gareth Bird, December 2020
-
+-- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

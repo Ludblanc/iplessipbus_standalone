@@ -28,7 +28,7 @@
 -- Parses incoming RARP response to capture real MAC and IP address
 --
 -- Dave Sankey, July 2012 and September 2015
-
+-- Ludovic Blanc 2026
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
